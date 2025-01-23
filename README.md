@@ -55,7 +55,8 @@ project/
 
 
 ### 2. QR Code Generated
-![QR Code Generated](https://via.placeholder.com/600x400?text=QR+Code+Generated)
+![image](https://github.com/user-attachments/assets/c422c0ff-1a86-4272-8b5b-a55ed48c3d68)
+
 ---
 
 🎯 Future Enhancements
